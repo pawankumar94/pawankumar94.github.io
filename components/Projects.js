@@ -1,4 +1,4 @@
-/*
+
 import React from "react";
 import userData from "@constants/data";
 
@@ -48,4 +48,3 @@ const ProjectCard = ({ title, link, imgUrl, number }) => {
     </a>
   );
 };
-*/
